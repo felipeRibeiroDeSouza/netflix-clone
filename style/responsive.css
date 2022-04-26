@@ -22,8 +22,8 @@
 
     .img {
         background: var(--black);
-        background-image: url("/img/ferris.jpg");
-        background-image: linear-gradient(to bottom, transparent, var(--black) 90%), url("/img/ferris.jpg");
+        background-image: url("../img/ferris.jpg");
+        background-image: linear-gradient(to bottom, transparent, var(--black) 90%), url("../img/ferris.jpg");
 
         background-size: 100%;
         background-repeat: no-repeat;
